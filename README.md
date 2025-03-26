@@ -8,12 +8,17 @@ It offers a clean interface, patient database, file uploads, and explainable AI 
 
 <div style="display: flex; align-items: center; gap: 10px; justify-content: center;">
 
-  <div style="display: flex; flex-direction: column;">
+<div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
+
+  <div style="display: flex; flex-direction: column; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/77b67fc9-9dd7-4c7a-b063-b704e5c3adc7" height="250px"/>
+    <img src="https://github.com/user-attachments/assets/9e346240-d705-41b1-b620-06883338934f" height="250px"/>
   </div>
-  <img src="https://github.com/user-attachments/assets/9e346240-d705-41b1-b620-06883338934f" height="250px"/>
+
   <img src="https://github.com/user-attachments/assets/3123c063-d9c6-43c0-a374-1d1974ae5b3d" height="500px"/>
+
 </div>
+
 
 
 ## 🧑‍⚕️ Key Features
