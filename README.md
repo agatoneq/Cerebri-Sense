@@ -7,8 +7,8 @@ It offers a clean interface, patient database, file uploads, and explainable AI 
 ⚠️ *Note: Due to an ongoing scientific publication, the deep learning model and related backend code are not included in this repository.*
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/77b67fc9-9dd7-4c7a-b063-b704e5c3adc7" height="400px"/>
-    <img src="https://github.com/user-attachments/assets/9e346240-d705-41b1-b620-06883338934f" height="400px"/>
+    <img src="https://github.com/user-attachments/assets/77b67fc9-9dd7-4c7a-b063-b704e5c3adc7" height="300px"/>
+    <img src="https://github.com/user-attachments/assets/9e346240-d705-41b1-b620-06883338934f" height="300px"/>
 </p>
 
 <p align="center">
