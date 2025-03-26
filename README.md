@@ -10,12 +10,15 @@ It offers a clean interface, patient database, file uploads, and explainable AI 
 
   <div style="display: flex; flex-direction: column;">
     <img src="https://github.com/user-attachments/assets/77b67fc9-9dd7-4c7a-b063-b704e5c3adc7" width="250px"/>
+    <img src="https://github.com/user-attachments/assets/9e346240-d705-41b1-b620-06883338934f" width="250px"/>
   </div>
 
 
     
 </div>
 
+
+  
 ## 🧑‍⚕️ Key Features
 
 - Secure registration and login for medical professionals
