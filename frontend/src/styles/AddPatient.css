@@ -1,0 +1,114 @@
+.add-patient-container {
+  margin: 2rem auto 1.8rem auto;
+  padding: 1rem 2rem 2rem 2rem;
+  max-width: 400px;
+  background: linear-gradient(90deg, #1b3650, #7e9cba);
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  color: white;
+  text-align: center;
+}
+
+.add-patient-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.add-patient-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.add-patient-input,
+.add-patient-select {
+  padding: 0.8rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  background-color: #242424;
+  color: white;
+  outline: none;
+  appearance: none;
+}
+
+.add-patient-input::placeholder {
+  color: gray;
+  font-style: italic;
+}
+
+.add-patient-select:valid {
+  color: white;
+}
+
+.add-patient-select option[disabled] {
+  color: gray;
+}
+
+input:-webkit-autofill {
+  background-color: #242424 !important;
+  color: white !important;
+  border: none !important;
+  box-shadow: 0 0 0px 1000px #242424 inset !important;
+  -webkit-text-fill-color: white !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+.add-patient-select {
+  appearance: none;
+}
+
+.add-patient-button {
+  padding: 0.8rem 1.5rem;
+  background-color: #656565;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.add-patient-button:hover {
+  background-color: #8f7d75;
+  transform: translateY(-3px);
+}
+
+.add-patient-button.processing {
+  background-color: #d7b9ac;
+  cursor: not-allowed;
+}
+
+.add-patient-message-container {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.add-patient-message {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0;
+  color: #d7b9ac;
+}
+
+.view-patients-button {
+  margin-top: 0;
+  padding: 0.8rem 1.5rem;
+  background-color: #656565;
+  width: 100%;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.view-patients-button:hover {
+  background-color: #8f7d75;
+  transform: translateY(-3px);
+}

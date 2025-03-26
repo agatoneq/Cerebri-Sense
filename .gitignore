@@ -36,6 +36,15 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Flask/Machine Learning artifacts
+instance/
+*.h5
+*.keras
+*.pkl
+*.pt
+*.joblib
+*.onnx
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
