@@ -2,7 +2,7 @@
 # 🧠 CerebriSense – Schizophrenia Support System Based on EEG Data
 
 CerebriSense is a medical web application that supports psychiatrists in analyzing EEG signals to assist in diagnosing schizophrenia.  
-It offers a clean interface, patient database, file uploads, and explainable AI output — all tailored for clinical use.
+It offers a clean interface, patient database, file uploads, and explainable AI output – all focused on clinical needs.
 
 ⚠️ *Note: Due to an ongoing scientific publication, the deep learning model and related backend code are not included in this repository.*
 
@@ -14,8 +14,6 @@ It offers a clean interface, patient database, file uploads, and explainable AI 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3123c063-d9c6-43c0-a374-1d1974ae5b3d" height="600px"/>
 </p>
-
-
 
 
 ## 🧑‍⚕️ Key Features
